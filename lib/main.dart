@@ -62,7 +62,7 @@ class MyApp extends StatelessWidget {
               color: Colors.white,
               elevation: 7.0,
               child: ListTile(
-                title: Text("+51 983 707 845"),
+                title: Text("+51 983 989 719"),
                 subtitle: Text("Teléfono"),
                 leading: Icon(
                   Icons.phone,
@@ -82,7 +82,7 @@ class MyApp extends StatelessWidget {
               color: Colors.white,
               elevation: 7.0,
               child: ListTile(
-                title: Text("junaito@gmail.com"),
+                title: Text("juanperez@gmail.com"),
                 subtitle: Text("Correo electrónico"),
                 leading: Icon(
                   Icons.mail,
